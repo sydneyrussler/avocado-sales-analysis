@@ -4,6 +4,8 @@
 
 ## Dataset
 
+In this investigation, I wanted to know the variables that could be used to predict the price of avocados. The main focus of the investigation was on the relationship between average price per unit, total volume sold, and seasonal variations; however, I explored several other variables as well.
+
 This dataset was download from Kaggle at the link https://www.kaggle.com/neuromusic/avocado-prices and originally sourced from the Hass Avocado Board website in May of 2018 at this link http://www.hassavocadoboard.com/retail/volume-and-price-data.
 
 As described by Hass:
